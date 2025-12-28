@@ -1,16 +1,121 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🚀 ML Roadmap Tracker
 
-Currently, two official plugins are available:
+![HTML](https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/IRX358/ml-roadmap-tracker?style=for-the-badge)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/IRX358/ml-roadmap-tracker?style=for-the-badge)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 📌 Project Name
+**ML Roadmap Tracker**
+[![Live Site](https://img.shields.io/badge/Live%20Site-Online-blue?style=for-the-badge&logo=googlechrome)](https://irx358.github.io/ml-roadmap-tracker/)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🧠 Short Introduction
+ML Roadmap Tracker is a **structured progress-tracking system** designed to help learners navigate the **Machine Learning learning curve** efficiently.  
+It transforms a vague ML roadmap into **clear checkpoints, topic-wise tracking, and goal-oriented execution** — helping learners stay consistent and measurable.
+
+---
+
+## ⭐ Features
+- 📍 Topic-wise Machine Learning roadmap
+- ✅ Progress tracking with completion indicators
+- 🧩 Segregated learning phases (Foundations → ML → DL)
+- 📝 Notes & self-reflection friendly structure
+- 🔗 Easy integration of learning resources
+- 🎯 Focus on consistency over randomness
+
+---
+
+## 🧰 Tech Stack
+- **Frontend:** HTML5, CSS3, JavaScript (ES6)
+- **State Handling:** Browser LocalStorage / JSON
+- **Version Control:** Git & GitHub
+
+---
+
+## 🚀 Setup Instructions
+
+### 🔽 Clone the Repository
+```bash
+git clone https://github.com/IRX358/ml-roadmap-tracker.git
+````
+
+###  📂 Navigate to Project Folder
+
+```bash
+cd ml-roadmap-tracker
+```
+
+---
+
+## ▶️ Running Instructions
+
+### 🖥 Static Project
+
+Simply open:
+
+```plaintext
+index.html
+```
+
+in your preferred browser.
+
+No server or dependencies required.
+
+---
+
+## 📁 Project Structure
+
+```
+ml-roadmap-tracker/
+│
+├── index.html
+├── README.md
+│
+├── css/
+│   └── style.css
+│
+├── js/
+│   └── tracker.js
+│
+├── data/
+│   └── roadmap.json
+│
+└── assets/
+    └── images/
+```
+
+---
+
+## 🧩 Future Enhancements
+
+* 📊 Visual progress analytics
+* ☁️ Cloud-based user profiles
+* 🧠 AI-generated personalized roadmap
+* 📱 Mobile-first responsive improvements
+
+---
+
+## 🤝 Connect with IR
+
+* **GitHub:** [https://github.com/IRX358](https://github.com/IRX358)
+* **LinkedIn:** [https://linkedin.com/in/IRX358](https://linkedin.com/in/IRX358)
+
+---
+
+### 🔖 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+<footer>
+© 2025 Irfan IR || Built with CURIOSITY
+</footer>
+```
